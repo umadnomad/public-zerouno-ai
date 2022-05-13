@@ -1,0 +1,69 @@
+Summarize and extract customer questions
+
+Volevo sapere se questo pomeriggio è aperto il pattinaggio libero, e il costo.  Grazie
+###
+output: Questo pomeriggio è aperto il pattinaggio libero? Quanto costa?
+
+Salve vorrei prenotare per due persone per oggi pomeriggio. Grazie mille
+###
+output: null
+
+Buonasera, vorrei prenotare per venire a pattinare questo sabato sera. Siamo in 5, a nome Parise. Mi conferma che c'è un punto di ristoro riscaldato?
+###
+output: C'è un punto di ristoro riscaldato?
+
+Salve volevo prenotare per il 19/12/21 per 6 persone e 5 noelleggio pattini
+Numeri: 3 numeri 43 un 33.5 con doppio attacco e un 38
+###
+output: null
+
+Buongiorno, si può prenotare per sabato prossimo(dalle 21 alle 24) per 10 persone?
+###
+output: null
+
+Avete per caso lezioni individual per ore
+###
+output: Fate lezioni private?
+
+Buongiorno,
+C'è possibilità di pattinare con un sostegno per chi non è capace?
+E' per mia figlia di 10 anni.
+Grazie
+###
+output: C'è possibilità di pattinare con un sostegno?
+
+Buongiorno, io volevo prenotare per pattinaggio libero di domenica 6 febbraio
+###
+output: null
+
+Vorrei sapere se c'e posto
+###
+output: C'è posto?
+
+Buona sera ce posto per sta sera
+###
+output: C'è posto questa sera?
+
+Buongiorno oggi siete aperti
+###
+output: Oggi siete aperti?
+
+Buongiorno. Nella selva di notizie sul super green pass vorrei sapere se per iniziare questa attività con voi è necessario o è sufficiente il tampone. Grazie
+###
+output: Serve il green pass o è sufficiente il tampone?
+
+se non siamo residenti di oggiona non si può fare pattinaggio?
+###
+output: Se non siamo residenti di Oggiona non si può fare pattinaggio?
+
+Per sabato pomeriggio dalle 15:00-18:00 vorrei prenotare: Roberta
+Carlotta Simone
+Domenica 15:00-18:00: Simone
+Carlotta, Daniele
+###
+output: null
+
+I nomi dei bambini sono Francesco Alessio Pasquale Samuele
+###
+output: null
+

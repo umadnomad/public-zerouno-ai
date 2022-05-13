@@ -1,0 +1,59 @@
+output either null or the date and time
+
+Volevo sapere se questo pomeriggio è aperto il pattinaggio libero, e il costo.  Grazie
+###
+output: Oggi pomeriggio
+
+Buonasera vorrei prenotare ingresso pista pattinaggio x 8 bambini sabato 13/02 alle ore 15
+###
+output: Sabato 13 Febbraio 15:00
+
+Buonasera, vorrei prenotare per venire a pattinare questo sabato sera. Siamo in 5, a nome Parise. Mi conferma che c'è un punto di ristoro riscaldato?
+###
+output: Sabato sera
+
+Buongiorno, oggi siete aperti per poter pattinare?
+###
+output: Oggi
+
+Vorrei sapere se c'e posto
+###
+output: null
+
+Ciao sarebbe possibile prenotare per stasera ??
+###
+output: Oggi sera
+
+Buongiorno, si può prenotare per sabato prossimo(dalle 21 alle 24) per 10 persone?
+###
+output: Sabato 21:00
+
+Buongiorno, posso aggiungere altre due persone alla precedente prenotazione?
+(Mi se chiedo in due giorni diversi)
+###
+output: null
+
+Buona sera ce posto per sta sera
+###
+output: Oggi sera
+
+Buongiorno,  volevo sapere dove vi trovare e che orari fate oggi grazie
+###
+output: Oggi
+
+Domani 25/12 il palaghiaccio é aperto ??
+###
+output: Domani 25 Dicembre
+
+Ciao volevo sapere costi per entrata la domenica..e anche sapere se devo prenotare...grazie
+###
+output: Domenica
+
+Buonasera, ho letto che è necessario  prenotare almeno 10 giorni prima se si viene in gruppo di più di 15 persone per ottenere l'offerta di 7.50.
+Mia figlia dovrebbe venire con i suoi compagni di classe sabato 12 febbraio di sera. Saranno tra i 15/20 ragazzi.
+Entro quando devo dare il numero preciso di partecipanti?
+Nel caso diventino meno di 15 ,sarà applicato il prezzo di listino cioè 10.euro( ingresso più noleggio)?
+Grazie, Alessandra.
+###
+output: Sabato sera 12 Febbraio
+

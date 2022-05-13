@@ -1,0 +1,67 @@
+output either null or the number of adults or children in this booking
+
+Buonasera vorrei prenotare ingresso pista pattinaggio x 8 bambini sabato 13/02 alle ore 15
+###
+output: 8
+
+Salve vorrei prenotare per due persone per oggi pomeriggio. Grazie mille
+###
+output: 2
+
+Buonasera vorrei prenotare 2 ingressi per domani pomeriggio: 1adulto +1 bambino con noleggio pattini.( nome castelli)
+È consentito accesso al pubblico ?
+###
+output: 2
+
+Buongiorno, volevo prenotare l'ingresso e noleggio pattini per 4 interi e un ridotto per sabato pomeriggio se possibile per le 16:00 - 16:30. Gli interi sono: 1. Alice 2. Tommaso 3. Greta 4. Mariagrazia . Il ridotto (8anni) Isabel. Volevo anche prenotare un \"pinguino\" per aiuto . Grazie
+###
+output: 5
+
+Ciao volevo sapere se potevo aggiungere una persona alla prenotazione
+###
+output: 1
+
+Ciao vorrei prenotare per oggi
+###
+output: null
+
+Buongiorno, la vorrei prenotare 3 posti per pattinare oggi pomeriggio dalle 15.
+I nomi sono :
+Manuel
+Rebecca
+Vera.
+Grazie
+###
+output: 3
+
+Buongiorno, si può prenotare per sabato prossimo(dalle 21 alle 24) per 10 persone?
+###
+output: 10
+
+Buongiorno, posso aggiungere altre due persone alla precedente prenotazione?
+(Mi se chiedo in due giorni diversi)
+###
+output: 2
+
+Buongiorno, prenotazione Pianezze per 3 disdetta.
+Grazie
+###
+output: 3
+
+Vorrei prenotare domani mattina a nome di Riccardo 35 persone
+###
+output: 35
+
+Buongiorno oggi alle 15 cè posto per pattinaggio libero per due ragazze di 12 anni grazie Simone
+###
+output: 2
+
+Buongiorno volevo prenotare 4 ingressi per sabato 5 marzo alle 15.30 e se era possibile anche due orsetti Grazie buona giornata
+###
+output: 4
+
+Buonasera vorrei prenotare per 4 persone sabato sera alle 22.
+Alice
+###
+output: 4
+

@@ -1,0 +1,40 @@
+Extract the customer names
+
+Volevo sapere se questo pomeriggio è aperto il pattinaggio libero, e il costo.  Grazie
+###
+output: null
+
+Buongiorno, volevo prenotare l'ingresso e noleggio pattini per 4 interi e un ridotto per sabato pomeriggio se possibile per le 16:00 - 16:30. Gli interi sono: 1. Alice 2. Tommaso 3. Greta 4. Mariagrazia . Il ridotto (8anni) Isabel. Volevo anche prenotare un \"pinguino\" per aiuto . Grazie
+###
+output: Alice, Tommaso, Greta, Mariagrazia, Isabel
+
+Confermo prenotazione per oggi domenica 13/02/22
+
+Stefano (adulto)
+Nicole (8 anni)
+Dalle 15.00
+###
+output: Stefano, Nicole
+
+Buonasera vorrei prenotare 2 ingressi per domani pomeriggio: 1adulto +1 bambino con noleggio pattini.( nome castelli)
+È consentito accesso al pubblico ?
+###
+output: Castelli
+
+Buongiorno, posso aggiungere altre due persone alla precedente prenotazione?
+(Mi se chiedo in due giorni diversi)
+###
+output: null
+
+Vorrei prenotare domani mattina a nome di Riccardo 35 persone
+###
+output: Riccardo
+
+Buongiorno!
+vorrei modificare la prenotazione per sabato 26 febbraio ore 15.00, pattinaggio libero per 8 persone
+Sono 8 ingressi e 6 noleggi pattini (n. 34 / 34 / 34 / 39 / 39 /40).
+Nome di riferimento: Cristina
+Grazie
+###
+output: Cristina
+
